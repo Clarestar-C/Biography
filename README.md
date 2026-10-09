@@ -3,7 +3,7 @@
 # Hello World, I'm Claresta Cheung!
 
 ## About Me
-I'm a second-year electrical engineering student at McMaster University (currently 3.5 cGPA) with a passion for building systems that work together seamlessly. My journey into engineering started with a childhood love of LEGO — that same curiosity about how complex systems integrate drives my work today.
+I'm a third-year electrical engineering student at McMaster University (currently 3.5 cGPA) with a passion for building systems that work together seamlessly. My journey into engineering started with a childhood love of LEGO — that same curiosity about how complex systems integrate drives my work today.
 
 I'm particularly drawn to **power systems**, **embedded systems**, and the exciting intersection of **biomedical engineering**. I love the hands-on experience of seeing my designs come to life, whether through breadboard prototyping or microcontroller implementations. There's nothing quite like the moment when a circuit fires up or code runs on hardware for the first time!
 
